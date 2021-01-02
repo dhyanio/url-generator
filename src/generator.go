@@ -1,5 +1,7 @@
 package main
 
+// URL generator
+
 import (
 	"context"
 	"crypto/md5"
@@ -13,7 +15,7 @@ import (
 
 	"net/http"
 
-	_ "github.com/jinzhu/gorm/dialects/postgres"
+    "github.com/jinzhu/gorm/dialects/postgres"
 )
 
 // urls -> URL database structure
