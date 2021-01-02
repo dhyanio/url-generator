@@ -1,8 +1,8 @@
 # url-generator
 
-## A Small URL Generator in golang
+## A small short URL Generator in golang
 
-This is a small URL generator writen in Golang. There are majorly 3 technologies I have used here.
+This is a small short URL generator writen in Golang. There are majorly 3 technologies I have used here.
 
 1. Golang : Latest
 2. PostreSQL : 13
